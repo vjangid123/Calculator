@@ -12,9 +12,11 @@ namespace Calculator
         {
         }
 
-        private int Add()
+        private int Add(int a , int b)
             {
             return 0;
           }
+
+
     }
 }
