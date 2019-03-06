@@ -17,7 +17,7 @@ namespace Calculator
             return 0;
         }
 
-        private int Sub()
+        private int Multiply()
         {
             return 0;
         }
