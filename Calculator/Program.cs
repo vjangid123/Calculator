@@ -21,5 +21,9 @@ namespace Calculator
         {
             return 0;
         }
+        private int Div()
+        {
+            return 4/2;
+        }
     }
 }
