@@ -16,5 +16,10 @@ namespace Calculator
         {
             return 0;
         }
+
+        private int Sub()
+        {
+            return 0;
+        }
     }
 }
