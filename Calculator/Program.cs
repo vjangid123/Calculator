@@ -21,5 +21,10 @@ namespace Calculator
         {
             return 0;
         }
+
+        private int mul()
+        {
+            return 0;
+        }
     }
 }
