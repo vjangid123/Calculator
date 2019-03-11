@@ -22,7 +22,7 @@ namespace Calculator
             return 0;
         }
 
-        private int mul()
+        private int mul(int a, int b)
         {
             return 0;
         } 
