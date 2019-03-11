@@ -31,4 +31,6 @@ namespace Calculator
 
 
     }
+
+    public enum MathOperators { Add = 1, Sub = 2, Mul = 3, Div = 4 }
 }
