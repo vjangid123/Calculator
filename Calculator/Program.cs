@@ -21,5 +21,10 @@ namespace Calculator
         {
             return 0;
         }
+
+        private int divide()
+            {
+            return 0;
+             }
     }
 }
