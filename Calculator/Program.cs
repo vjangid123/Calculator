@@ -17,13 +17,8 @@ namespace Calculator
             return 0;
         }
 
-        private int Sub(int a, int b)
+        private int Multiply()
         {
-            return 0;
-        }
-
-        private int divide()
-            {
             return 0;
              }
     }
