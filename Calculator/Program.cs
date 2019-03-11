@@ -20,6 +20,15 @@ namespace Calculator
         private int Multiply()
         {
             return 0;
-             }
+
+        }
+
+        private int mul(int a, int b)
+        {
+            return 0;
+        } 
+
+
+
     }
 }
